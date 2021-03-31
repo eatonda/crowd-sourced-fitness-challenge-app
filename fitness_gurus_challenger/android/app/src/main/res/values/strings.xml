@@ -1,0 +1,6 @@
+<resources>
+    <string name ="app_name">Fitness Gurus Challenger</string>
+    <string name="facebook_app_id">802879357238387</string>
+    <string name="fb_login_protocol_scheme">fb802879357238387</string>
+</resources>
+
