@@ -41,4 +41,4 @@ app.*.symbols
 app.*.map.json
 
 # API Keys Uncomment at end for security.
-# /assets/secret/
+/assets/secret/
