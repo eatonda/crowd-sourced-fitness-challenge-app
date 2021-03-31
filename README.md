@@ -1,9 +1,9 @@
 # FitnessGurus
 
-Note: Backend is purposely disabled. Reach out to me david.a.eatonii@gmail.com if you wish to test the application on your personal device. Otherwise, you can watch a demo of the application at 
+Note: Backend is purposely disabled. Reach out to me david.a.eatonii@gmail.com if you wish to test the application on your personal device. Otherwise, you can watch a demo of the application at . Also code included is just the library code written, not the project's android/iOS configurations etc. 
 
 
-I) For Android Device
+I) For Android Device (Recommended for the project code included is just the lib files and not the OS specific files.)
     Allow Untrusted Sources.
     Please follow the documentation at https://www.verizon.com/support/knowledge-base-222186/
     for your android device. Note newer android devices will just ask you to allow this setting when 
